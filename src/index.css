@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans antialiased;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #10b981;
+}
+
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+
+  /* Hide non-printable elements */
+  canvas, 
+  button, 
+  nav, 
+  footer,
+  .no-print {
+    display: none !important;
+  }
+
+  /* Reset text colors for print */
+  h1, h2, h3, h4, h5, h6, p, span, div {
+    color: black !important;
+    text-shadow: none !important;
+  }
+
+  /* Layout adjustments for print */
+  section {
+    page-break-inside: avoid;
+    padding: 20px 0 !important;
+  }
+
+  /* Ensure links are visible */
+  a {
+    text-decoration: underline;
+    color: blue !important;
+  }
+}

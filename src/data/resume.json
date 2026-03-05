@@ -1,0 +1,185 @@
+{
+  "basics": {
+    "name": "Deepak Kumar Saini",
+    "label": "Data Analyst",
+    "email": "deepaksaini8a@gmail.com",
+    "phone": "8209819148",
+    "url": "https://github.com/saini-deepak007",
+    "summary": "Detail-oriented Data Analyst with hands-on experience in Python, SQL, Power BI, and Advanced Excel for data cleaning, analysis, and visualization. Proficient in data modeling, dashboard creation, and KPI tracking to support business intelligence and decision-making. Passionate about leveraging data-driven strategies to improve operational efficiency and optimize performance outcomes.",
+    "location": {
+      "city": "Ghaziabad",
+      "region": "Uttar Pradesh",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "deepak-kumar-saini-7ba6b4202",
+        "url": "https://www.linkedin.com/in/deepak-kumar-saini-7ba6b4202"
+      },
+      {
+        "network": "GitHub",
+        "username": "saini-deepak007",
+        "url": "https://github.com/saini-deepak007"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CXL Technologies",
+      "position": "Research Analyst",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "location": "Noida",
+      "highlights": [
+        "Extracted, transformed, and analyzed datasets using SQL and Power Query, improving data reliability and reporting efficiency by 30%.",
+        "Developed interactive Power BI dashboards using DAX and data modeling to visualize KPIs, enhancing decision-making accuracy by 25%.",
+        "Automated reports in Excel using Pivot Tables and advanced formulas, reducing reporting time by 35%.",
+        "Monitored data quality and optimized SQL queries, resulting in 20% faster data retrieval and improved dashboard responsiveness."
+      ]
+    },
+    {
+      "name": "Academor",
+      "position": "Data Science Intern",
+      "startDate": "July 2023",
+      "endDate": "Sept 2023",
+      "location": "Remote",
+      "highlights": [
+        "Cleaned and analyzed large datasets using Python, SQL, and Power Query, improving overall data accuracy and consistency by 25%.",
+        "Developed interactive dashboards in Power BI and Excel to visualize KPIs and trends, enhancing data-driven decision-making across teams.",
+        "Performed Exploratory Data Analysis (EDA) to uncover key trends and correlations, supporting data-driven decisions that optimized performance by 15%."
+      ]
+    }
+  ],
+  "volunteering": [
+      {
+          "name": "Vrikshit Foundation",
+          "position": "Volunteer"
+      }
+  ],
+  "education": [
+    {
+      "institution": "Raj Kumar Goel Insitute of Technology - Ghaziabad",
+      "area": "CSE",
+      "studyType": "B.Tech",
+      "startDate": "2020",
+      "endDate": "2024",
+      "score": "84%"
+    },
+    {
+      "institution": "Subodh Public School",
+      "studyType": "12th",
+      "endDate": "2020",
+      "score": "82%"
+    },
+    {
+      "institution": "Subodh Public School",
+      "studyType": "10th",
+      "endDate": "2018",
+      "score": "87%"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Analysis",
+      "keywords": [
+        "Python (Pandas, NumPy, Matplotlib, Seaborn)",
+        "Statistical Analysis",
+        "Data Wrangling"
+      ]
+    },
+    {
+      "name": "Database & Querying",
+      "keywords": [
+        "SQL (Advanced Joins, CTEs, Subqueries)",
+        "MySQL",
+        "Power Query"
+      ]
+    },
+    {
+      "name": "Data Visualization & BI Tools",
+      "keywords": [
+        "Power BI (DAX, Data Modeling, Interactive Dashboards)",
+        "Excel (Pivot Tables, Macros, VLOOKUP, XLOOKUP, Power Query)"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Analytical Thinking",
+        "Attention to Detail",
+        "Collaboration",
+        "Problem Solving",
+        "Presentation Skills"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Advanced Certification in Full Stack Data Science & AI",
+      "issuer": "IIT Guwahati",
+      "url": "https://drive.google.com/file/d/1xCFOyVS8afuRyG_11oczBdSj2ADRRR8q/view?usp=drive_link"
+    },
+    {
+      "name": "Full Stack Data Science & AI",
+      "issuer": "Almabetter",
+      "url": "https://drive.google.com/file/d/1-x9O_JT_B1HKmD6s66txvaHiwEgB3pm_/view"
+    },
+    {
+      "name": "Python for Data Science",
+      "issuer": "UDEMY",
+      "url": "https://drive.google.com/file/d/1XMiOCZTVslm83ArapvM7fEUGxzwiLvDj/view"
+    },
+    {
+      "name": "Complete Excel Data Analysis",
+      "issuer": "UDEMY",
+      "url": "https://drive.google.com/file/d/1e3-UUMfXpH4Uj1m0S6g1JvqKR-G2QFm2/view"
+    },
+    {
+      "name": "Mastering Power BI Report Design",
+      "issuer": "UDEMY",
+      "url": "https://drive.google.com/file/d/1FKS_PN7OZfsNpdY3Pf5Ua0wk5d3uGE_w/view"
+    },
+    {
+      "name": "SQL for Developers, Data Analysts and BI",
+      "issuer": "UDEMY",
+      "url": "https://drive.google.com/file/d/1c8sWAtqQRqFY_UjRQLXBO7iAkbYEthCK/view"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AMAZON PRIME VIDEO CONTENT ANALYSIS",
+      "tech": "Python",
+      "url": "https://github.com/saini-deepak007/Amazon-Prime-TV-Shows-and-Movies-Data-Analysis",
+      "highlights": [
+        "Conducted comprehensive Exploratory Data Analysis (EDA) on Amazon Prime’s movies and TV shows dataset to extract meaningful business insights.",
+        "Utilized Python (Pandas, NumPy) for data cleaning and transformation, and applied Matplotlib & Seaborn for interactive data visualization and trend analysis.",
+        "Identified key patterns in genre popularity, viewer ratings, release trends, and regional content distribution, enabling data-driven recommendations for strategic decision-making."
+      ]
+    },
+    {
+      "name": "HOSPITAL EMERGENCY ROOM ANALYTICS DASHBOARD",
+      "tech": "EXCEL",
+      "url": "https://github.com/saini-deepak007/Hospital-Emergency-Room-Dashboard---EXCEL",
+      "highlights": [
+        "Developed an interactive Hospital Emergency Room Dashboard in Excel using Pivot Tables, Slicers, and Conditional Formatting to analyze patient inflow, wait times, and admission trends.",
+        "Designed and tracked key KPIs such as total patients, average wait time, and admission rate, improving decision-making and operational efficiency.",
+        "Created dynamic data visualizations and automated filters to enable real-time performance monitoring and enhance data-driven insights for hospital management."
+      ]
+    },
+    {
+      "name": "HOTEL PERFORMANCE ANALYTICS DASHBOARD",
+      "tech": "POWER BI",
+      "url": "https://github.com/saini-deepak007/Power-BI-Dashboard-on-Hospitality-Domain",
+      "highlights": [
+        "Developed a comprehensive hotel performance analytics dashboard for a multi-city hotel chain covering properties in Bangalore, Delhi, Hyderabad and Mumbai.",
+        "Used Power BI, Excel, Power Query, and DAX to clean, model, and visualize key metrics like Revenue, RevPAR, ADR, and Occupancy %.",
+        "Enabled quick performance comparison by city and property type, helping identify top-performing hotels and revenue trends."
+      ]
+    }
+  ],
+  "interests": [
+      "Video Games",
+      "Watching Shows"
+  ]
+}
